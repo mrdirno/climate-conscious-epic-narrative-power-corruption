@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The rain fell in sheets, not drops, a grey-white roar that turned the world to liquid static. It wasn’t cleansing. It was the third biblical downpour in a week, and the ground, saturated beyond memory, could only surrender. Water sheeted across the tarmac of the private airstrip, a mirror reflecting nothing but the bruised underbelly of the sky. In the lee of a hangar, two men watched a Gulfstream G700 taxi through the deluge, its engines a muted scream against the weather’s howl.
+The first lie was the easiest: the data was anomalous, a glitch in the archive. The second required a committee. By the time they buried the third projection under a mountain of narrative protocols, the truth wasn't a fact—it was a dissenting opinion. And dissent, in the age of managed consensus, had become a form of sabotage.
+
 
 Leo Voss didn’t flinch when a gust threw a curtain of spray across his shins. The cold was a fact, like the weight of the titanium briefcase handcuffed to his wrist. He was forty-eight, built like a retired middleweight, his face a topography of careful decisions and one jagged scar that bisected his left eyebrow—a souvenir from a protest in Jakarta a lifetime ago, when he still believed in placards. His eyes, the colour of wet slate, tracked the jet’s seamless approach. He’d stopped seeing beauty in machines like this years ago. Now he saw only resource allocation: the carbon cost of its whisper-quiet engines, the embodied energy in its carbon-fibre skin, the sheer, obscene *amount* of a world on fire required to keep this one object aloft.
 
@@ -67,6 +70,8 @@ The rain didn’t let up. It never did anymore. It was just weather, now. Raw, u
 He walked out into it, Aris scurrying behind. The water soaked him to the skin in seconds. It felt like a baptism.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -147,6 +152,8 @@ He deleted it, his face impassive. But the stone in his gut grew colder, heavier
 He looked from the apocalyptic maps to the dried stalk of wheat on the table. From the end of the world to a single, failed seed. The distance between them was shrinking. And he was the one building the bridge.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
